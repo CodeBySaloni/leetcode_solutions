@@ -26,7 +26,7 @@ To improve my problem-solving skills and build a strong foundation in Data Struc
 This section contains my solutions to LeetCode problems, written in C++.
 More solutions will be added as I continue learning and practicing.
 
-- [136. Single Number] (./0136-single-number.cpp) - C++
+- [136. Single Number] (0136-single-number.cpp) - C++
 - [1832. Check if the Sentence Is Pangram] (./1832-check-if-sentence-is-pangram.cpp) - C++
 
 
