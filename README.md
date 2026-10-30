@@ -13,6 +13,16 @@ This repository contains my C++ solutions to Leetcode Problems.
 - Learn from mistakes.
 - Improve problem-solving skills.
 
+## Problems Solved
+
+This section contains my solutions to LeetCode problems, written in C++.
+More solutions will be added as I continue learning and practicing.
+
+- [11. Container With Most Water](./0011-container-with-most-water.cpp) - C++
+- [136. Single Number](./0136-single-number.cpp) - C++
+- [1832. Check if the Sentence Is Pangram](./1832-check-if-sentence-is-pangram.cpp) - C++
+
+
 ## Goal
 
 To improve my problem-solving skills and build a strong foundation in Data Structure and Algorithms.
@@ -21,12 +31,6 @@ To improve my problem-solving skills and build a strong foundation in Data Struc
 
 *Learning one problem at a time.*
 
-## Problems Solved
 
-This section contains my solutions to LeetCode problems, written in C++.
-More solutions will be added as I continue learning and practicing.
-
-- [136. Single Number](./0136-single-number.cpp) - C++
-- [1832. Check if the Sentence Is Pangram](./1832-check-if-sentence-is-pangram.cpp) - C++
 
 
