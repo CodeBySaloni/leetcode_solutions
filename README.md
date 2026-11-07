@@ -23,6 +23,7 @@ More solutions will be added as I continue learning and practicing.
 - [387. First Unique Character in a String](./0387-first-unique-character-in-a-string.cpp) - C++
 - [389. Find the Difference](./0389-find-the-difference.cpp) - C++
 - [1464. Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array.cpp) - C++
+- [1582. Special Positions in a Binary Matrix](./1582-special-positions-in-a-binary-matrix.cpp) - C++
 - [1832. Check if the Sentence Is Pangram](./1832-check-if-sentence-is-pangram.cpp) - C++
 - [2706. Buy Two Chocolates](./2706-buy-two-chocolates.cpp) - C++
 - [2264. Largest 3-Same-Digit Number in String](./2264-largest-3-same-digit-number-in-string.cpp) - C++
