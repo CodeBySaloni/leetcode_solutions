@@ -28,8 +28,9 @@ More solutions will be added as I continue learning and practicing.
 - [1582. Special Positions in a Binary Matrix](./1582-special-positions-in-a-binary-matrix.cpp) - C++
 - [1832. Check if the Sentence Is Pangram](./1832-check-if-sentence-is-pangram.cpp) - C++
 - [2000. Reverse Prefix of Word](./2000-reverse-prefix-of-word) - C++
-- [2706. Buy Two Chocolates](./2706-buy-two-chocolates.cpp) - C++
 - [2264. Largest 3-Same-Digit Number in String](./2264-largest-3-same-digit-number-in-string.cpp) - C++
+- [2706. Buy Two Chocolates](./2706-buy-two-chocolates.cpp) - C++
+- [2864. Maximum Odd Binary Number](./2864-maximum-odd-binary-number.cpp) - C++
 
 
 ## Goal
