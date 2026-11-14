@@ -19,6 +19,7 @@ This section contains my solutions to LeetCode problems, written in C++.
 More solutions will be added as I continue learning and practicing.
 
 - [11. Container With Most Water](./0011-container-with-most-water.cpp) - C++
+- [125. Valid Palindrome](./0125-valid-palindrome.cpp) - C++
 - [136. Single Number](./0136-single-number.cpp) - C++
 - [344. Reverse String](./0344-reverse-string.cpp) - C++
 - [387. First Unique Character in a String](./0387-first-unique-character-in-a-string.cpp) - C++
