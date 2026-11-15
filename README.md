@@ -26,6 +26,7 @@ More solutions will be added as I continue learning and practicing.
 - [389. Find the Difference](./0389-find-the-difference.cpp) - C++
 - [455. Assign Cookies](./0455-assign-cookies.cpp) - C++
 - [977. Squares of a Sorted Array](./0977-squares-of-a-sorted-array.cpp) - C++
+- [1108. Defanging an IP Address](./1108-defanging-an-IP-address.cpp) - C++
 - [1464. Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array.cpp) - C++
 - [1582. Special Positions in a Binary Matrix](./1582-special-positions-in-a-binary-matrix.cpp) - C++
 - [1832. Check if the Sentence Is Pangram](./1832-check-if-sentence-is-pangram.cpp) - C++
