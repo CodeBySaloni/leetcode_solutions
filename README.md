@@ -34,6 +34,7 @@ More solutions will be added as I continue learning and practicing.
 - [2000. Reverse Prefix of Word](./2000-reverse-prefix-of-word) - C++
 - [2264. Largest 3-Same-Digit Number in String](./2264-largest-3-same-digit-number-in-string.cpp) - C++
 - [2706. Buy Two Chocolates](./2706-buy-two-chocolates.cpp) - C++
+- [2785. Sort Vowels in a String](./2785-sort-vowels-in-a-string.cpp) - C++
 - [2864. Maximum Odd Binary Number](./2864-maximum-odd-binary-number.cpp) - C++
 
 
