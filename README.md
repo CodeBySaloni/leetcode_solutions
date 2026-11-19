@@ -30,6 +30,7 @@ More solutions will be added as I continue learning and practicing.
 - [1108. Defanging an IP Address](./1108-defanging-an-IP-address.cpp) - C++
 - [1464. Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array.cpp) - C++
 - [1582. Special Positions in a Binary Matrix](./1582-special-positions-in-a-binary-matrix.cpp) - C++
+- [1624. Largest Substring Between Two Equal Characters](./1624-largest-substring-between-two-equal-characters.cpp) - C++
 - [1832. Check if the Sentence Is Pangram](./1832-check-if-sentence-is-pangram.cpp) - C++
 - [1910. Remove All Occurrences of a Substring](./1910-remove-all-occurrences-of-a-substring.cpp) - C++
 - [2000. Reverse Prefix of Word](./2000-reverse-prefix-of-word) - C++
