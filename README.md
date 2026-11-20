@@ -38,6 +38,7 @@ More solutions will be added as I continue learning and practicing.
 - [2706. Buy Two Chocolates](./2706-buy-two-chocolates.cpp) - C++
 - [2785. Sort Vowels in a String](./2785-sort-vowels-in-a-string.cpp) - C++
 - [2864. Maximum Odd Binary Number](./2864-maximum-odd-binary-number.cpp) - C++
+- [2966. Divide Array into Arrays With Max Difference](./2966-divide-array-into-arrays-with-max-difference.cpp) - C++
 - [3005. Count Elements With Maximum Frequency](./3005-count-elements-with-maximum-frequency.cpp) - C++
 
 
