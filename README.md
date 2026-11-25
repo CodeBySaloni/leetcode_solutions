@@ -19,6 +19,7 @@ This section contains my solutions to LeetCode problems, written in C++.
 More solutions will be added as I continue learning and practicing.
 
 - [11. Container With Most Water](./0011-container-with-most-water.cpp) - C++
+- [12. Integer to Roman](./0012-integer-to-roman.cpp) - C++
 - [13. Roman to Integer](./0013-roman-to-integer.cpp) - C++
 - [125. Valid Palindrome](./0125-valid-palindrome.cpp) - C++
 - [136. Single Number](./0136-single-number.cpp) - C++
