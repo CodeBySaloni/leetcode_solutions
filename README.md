@@ -35,6 +35,7 @@ More solutions will be added as I continue learning and practicing.
 - [977. Squares of a Sorted Array](./0977-squares-of-a-sorted-array.cpp) - C++
 - [1108. Defanging an IP Address](./1108-defanging-an-IP-address.cpp) - C++
 - [1464. Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array.cpp) - C++
+- [1480. Running Sum of 1d Array](./1480-running-sum-of-1d-array.cpp) - C++
 - [1582. Special Positions in a Binary Matrix](./1582-special-positions-in-a-binary-matrix.cpp) - C++
 - [1624. Largest Substring Between Two Equal Characters](./1624-largest-substring-between-two-equal-characters.cpp) - C++
 - [1832. Check if the Sentence Is Pangram](./1832-check-if-sentence-is-pangram.cpp) - C++
