@@ -25,6 +25,7 @@ More solutions will be added as I continue learning and practicing.
 - [125. Valid Palindrome](./0125-valid-palindrome.cpp) - C++
 - [136. Single Number](./0136-single-number.cpp) - C++
 - [151. Reverse Words in a String](./0151-reverse-words-in-a-string.cpp) - C++
+- [167. Two Sum II - Input Array Is Sorted](./0167-two-sum-II.cpp) - C++
 - [217. Contains Duplicate](./0217-contains-duplicate.cpp) - C++
 - [344. Reverse String](./0344-reverse-string.cpp) - C++
 - [387. First Unique Character in a String](./0387-first-unique-character-in-a-string.cpp) - C++
